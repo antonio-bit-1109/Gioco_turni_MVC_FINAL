@@ -14,7 +14,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.5" />
-    <PackageReference Include="Oracle.ManagedDataAccess" Version="23.5.1" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="23.5.1" />
   </ItemGroup>
 
   <ItemGroup>
